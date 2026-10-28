@@ -1,7 +1,7 @@
 name: CI/CD Docker Nginx
 
 on:
-  push:
+  push: 
     branches: [ "main" ]
 
 jobs:
